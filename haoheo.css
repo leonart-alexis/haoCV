@@ -1,0 +1,18 @@
+#td {
+    margin-top:0;
+    margin-bottom: 10px;
+    padding: 20px;
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color:rgb(63, 108, 198);
+    text-align: center;
+    color:white;
+    font-size:3em;
+  }
+#main{
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+}
+  
